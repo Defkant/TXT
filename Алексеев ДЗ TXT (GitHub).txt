@@ -1,4 +1,4 @@
-1. Создать внешний репозиторий c названием TXT. == Регистрируемся на Git Hub /Repositories/new/Create a new repository/указываем название "TXT"/кнопка Create repository 
+ 1. Создать внешний репозиторий c названием TXT. == Регистрируемся на Git Hub /Repositories/new/Create a new repository/указываем название "TXT"/кнопка Create repository 
  2. Клонировать репозиторий TXT на локальный компьютер. == запускаем Git Bash/git clone https://github.com/Defkant/TXT.git 
  3. Внутри локального TXT создать файл “new.txt”. == touch new.txt
  4. Добавить файл под гит. == git add new.txt
